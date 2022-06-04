@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">AndroidLessonSix</string>
+    <string name="app_name">Android Studio - Lesson Six</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="placeholder">lol</string>
+    <string name="country_name_hint">Country name</string>
+    <string name="choose_date">Choose date</string>
+    <string name="change_date_button">Change date</string>
+    <string name="hint_text">Date created: 01/04/1998</string>
+    <string name="created_string">\Date of creation: \</string>
+    <string name="coat_of_arms">coat of arms</string>
 </resources>
